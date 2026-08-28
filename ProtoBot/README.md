@@ -5,7 +5,7 @@ Um bot básico do Discord desenvolvido por KaelxDev.
 ## Arquitetura
 
 ```
-ProtoBot1/
+ProtoBot/
 ├── main.py                         # Ponto de entrada: inicia o bot
 ├── bot/                            # Código principal do ProtoBot
 │   ├── __init__.py                 # Define o pacote principal
