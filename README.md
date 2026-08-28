@@ -16,7 +16,7 @@ Um bot básico para **Discord**, desenvolvido em Python por **KaelxDev**, com co
 ## 📁 Estrutura do projeto
 
 ```text
-ProtoBot1/
+ProtoBot/
 ├── main.py                         # Ponto de entrada da aplicação
 ├── bot/                            # Código principal do ProtoBot
 │   ├── __init__.py                 # Inicialização do pacote
