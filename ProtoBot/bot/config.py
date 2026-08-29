@@ -8,8 +8,7 @@ load_dotenv()
 class Config:
     token: str
     debug: bool = False
-    default_prefix: str = "!" # Mudei de "/" para "!". Slash commands não usam prefixo.
-
+    default_prefix: str = "!" 
 def load_config() -> Config:
     token = os.getenv("DISCORD_TOKEN")
     if not token:
