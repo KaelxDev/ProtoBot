@@ -99,7 +99,7 @@ Antes de começar, certifique-se de ter instalado:
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd ProtoBot1
+cd ProtoBot
 ```
 
 ### 2. Configure as variáveis de ambiente
